@@ -11,7 +11,7 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.jsx']
   },
-  mode: 'developmen',
+  mode: 'development',
   module: {
     rules: [
       {

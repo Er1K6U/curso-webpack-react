@@ -19,7 +19,7 @@ module.exports = {
       '@styles': path-resolve(__dirname, 'src/styles')
     }
   },
-  mdoe: 'production',
+  mode: 'production',
   module: {
     rules: [
       {
